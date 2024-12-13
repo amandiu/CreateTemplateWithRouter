@@ -14,27 +14,30 @@ This template provides a streamlined way to set up a React project, integrated w
 📦 Quick Start
 Clone the template and navigate to the project folder.
 Run the following command to install all dependencies:
-bash
-Copy code
+
 npm install
 Start the development server with:
-bash
-Copy code
+
+
 npm run dev
 🔗 Key Technologies
 React Router (v6.28.0)
 Handle client-side routing seamlessly and create dynamic single-page applications (SPAs).
+https://reactrouter.com/home
+
 
 📖 Documentation
 TailwindCSS
 A utility-first CSS framework for rapid UI development. Easily style your components with minimal, clean HTML.
+https://tailwindcss.com/ 
 
 🌐 Documentation
 DaisyUI
 Build stunning UI components faster with pre-designed, customizable TailwindCSS components.
+https://daisyui.com/
 
 🌼 Documentation
 Vite Framework
 A modern and ultra-fast build tool that provides lightning-fast development and build speeds for your React project.
-
+https://tailwindcss.com/docs/guides/vite
 🚀 Setup with TailwindCSS
